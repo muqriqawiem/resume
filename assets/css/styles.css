@@ -488,6 +488,11 @@ img{
   margin-right: .75rem;
 }
 
+.skills__icon{
+  font-size: .7rem;
+  margin-right: .25rem;
+}
+
 /*========== CERTIFICATES ==========*/
 .certificate__title{
   font-size: var(--h3-font-size);
